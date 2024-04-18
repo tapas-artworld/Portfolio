@@ -92,11 +92,11 @@ const services = [{
     },
     {
         title: "Graphic Designer intern at Pixel Maths",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Create graphic for mobile games, certificate for participation student, event landing pages, anchor sheets, syllabus, etc.",
     },
     {
         title: "MERN Stack Dev at Navgurukul",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Work on python, javascript, node.js, express.js, react.js, bootstrap and MySQL. Devloped Navgurukul dashboard and website. Give mentorship to students",
     },
 ];
 
